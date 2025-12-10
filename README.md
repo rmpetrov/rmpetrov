@@ -1,4 +1,4 @@
-# Hi, I'm Roman 👋
+# Hi, I'm Roman
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.13-blue" />

@@ -1,5 +1,15 @@
 # Hi, I'm Roman 👋
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.13-blue" />
+  <img src="https://img.shields.io/badge/Playwright-Automation-blueviolet" />
+  <img src="https://img.shields.io/badge/Pytest-Framework-green" />
+  <img src="https://img.shields.io/badge/QA%20Automation-Engineer-orange" />
+  <img src="https://img.shields.io/badge/SQL-Basic-lightgrey" />
+  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue" />
+</p>
+
+
 I'm a QA Engineer focused on **test automation** with **Python**, **Pytest**, and **Playwright**.
 
 - 7+ years in software testing (web applications, data-heavy systems)

@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Roman 👋
 
-<!--
-**rmpetrov/rmpetrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a QA Engineer focused on **test automation** with **Python**, **Pytest**, and **Playwright**.
 
-Here are some ideas to get you started:
+- 7+ years in software testing (web applications, data-heavy systems)
+- Building UI and API test automation in Python
+- Interested in integrating tests into CI/CD and improving release quality
+- Currently working on a demo automation project with Playwright + Pytest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+- **Languages:** Python, SQL
+- **Test automation:** Playwright, Selenium, Pytest
+- **Testing types:** UI, API, regression, integration, exploratory
+- **Tools:** Git, GitHub, Docker (basics), Postman, Jira
+
+## Projects
+
+### Playwright tests (Python)
+Automation framework example using:
+- `pytest` + `playwright`
+- page object pattern
+- fixtures and reusable test utilities
+
+➡️ [playwright-tests](https://github.com/rmpetrov/playwright-tests)
+
+---
+
+If you're interested in my work or want to chat about QA / automation, feel free to reach out on [LinkedIn](YOUR_LINK_HERE).

@@ -24,6 +24,16 @@ I'm a QA Engineer focused on **test automation** with **Python**, **Pytest**, an
 - **Testing types:** UI, API, regression, integration, exploratory
 - **Tools:** Git, GitHub, Docker (basics), Postman, Jira
 
+## Key Skills
+
+- ✔ UI automation with **Python + Playwright (POM)**
+- ✔ Test automation framework design (**pytest**)
+- ✔ API testing using Python (`requests`)
+- ✔ Test design: smoke, regression, integration, exploratory
+- ✔ CI/CD with GitHub Actions
+- ✔ Working with data-heavy systems, dashboards, and backend logic
+
+
 ## Projects
 
 ### Playwright tests (Python)

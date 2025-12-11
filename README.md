@@ -1,16 +1,37 @@
-# Hi, I'm Roman
+# Hi, I'm Roman — SDET / QA Automation Engineer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.13-blue" />
-  <img src="https://img.shields.io/badge/Playwright-Automation-blueviolet" />
-  <img src="https://img.shields.io/badge/Pytest-Framework-green" />
-  <img src="https://img.shields.io/badge/QA%20Automation-Engineer-orange" />
-  <img src="https://img.shields.io/badge/SQL-Basic-lightgrey" />
-  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue" />
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+<!-- Automation -->
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?logo=dependabot&logoColor=white)
+
+<!-- API -->
+![API Testing](https://img.shields.io/badge/API%20Testing-0052CC?logo=api&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?logo=python&logoColor=white)
+
+<!-- Reporting -->
+![Allure](https://img.shields.io/badge/Allure-FF45A1?logo=allure&logoColor=white)
+![HTML Report](https://img.shields.io/badge/pytest--html-0A9EDC?logo=google-chrome&logoColor=white)
+
+<!-- CI/CD -->
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4B8BBE?logo=devops&logoColor=white)
+
+<!-- Tools -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
 </p>
 
 
-I'm a QA Engineer focused on **test automation** with **Python**, **Pytest**, and **Playwright**.
+I'm a QA Automation Engineer specializing in Python, Pytest, and Playwright.  
+I build clean and scalable test automation frameworks, integrate them into CI/CD,  
+and focus on improving product quality through reliable automated testing.
 
 - 7+ years in software testing (web applications, data-heavy systems)
 - Building UI and API test automation in Python
@@ -19,28 +40,29 @@ I'm a QA Engineer focused on **test automation** with **Python**, **Pytest**, an
 
 ## Tech stack
 
-- **Languages:** Python, SQL
-- **Test automation:** Playwright, Selenium, Pytest
-- **Testing types:** UI, API, regression, integration, exploratory
-- **Tools:** Git, GitHub, Docker (basics), Postman, Jira
+**Languages:** Python, SQL  
+**Frameworks:** Pytest, Playwright, Selenium  
+**Testing:** UI, API, integration, regression  
+**Tools:** Git, GitHub Actions, Docker, Postman  
+**Reporting:** Allure, pytest-html  
 
 ## Key Skills
 
-- UI automation with **Python + Playwright (POM)**
-- Test automation framework design (**pytest**)
-- API testing using Python (`requests`)
-- Test design: smoke, regression, integration, exploratory
-- CI/CD with GitHub Actions
-- Working with data-heavy systems, dashboards, and backend logic
-
+- UI automation with Python + Playwright (POM approach)
+- API test automation using Python (`requests`)
+- Framework design with Pytest (fixtures, reusable utilities)
+- CI/CD pipelines with GitHub Actions (matrix, artifacts, reporting)
+- Debugging, analyzing logs, working with backend-heavy systems
 
 ## Projects
 
-### Playwright tests (Python)
-Automation framework example using:
-- `pytest` + `playwright`
-- page object pattern
-- fixtures and reusable test utilities
+A complete UI & API automation framework with:
+- Playwright + Pytest
+- Page Object Model
+- API test module (reqres)
+- Allure reporting
+- HTML report auto-published via GitHub Pages
+- CI/CD with cross-browser matrix
 
 ➡️ [playwright-tests](https://github.com/rmpetrov/playwright-tests)
 

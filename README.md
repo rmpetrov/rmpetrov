@@ -1,7 +1,7 @@
 # Hi, I'm Roman — SDET / QA Automation Engineer
 
-<p align="left">
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<!-- Badges -->
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
@@ -17,7 +17,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-</p>
 
 
 I'm a QA Automation Engineer specializing in Python, Pytest, and Playwright.  

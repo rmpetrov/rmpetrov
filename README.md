@@ -1,7 +1,7 @@
 # Hi, I'm Roman — SDET / QA Automation Engineer
 
 <p align="left">
-<!-- Languages -->
+  <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 <!-- Automation -->

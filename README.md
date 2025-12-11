@@ -1,28 +1,19 @@
 # Hi, I'm Roman — SDET / QA Automation Engineer
 
 <p align="left">
-  <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-<!-- Automation -->
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF6F00?logo=dependabot&logoColor=white)
 
-<!-- API -->
-![API Testing](https://img.shields.io/badge/API%20Testing-0052CC?logo=api&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-0052CC?logo=fastapi&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?logo=python&logoColor=white)
-
-<!-- Reporting -->
 ![Allure](https://img.shields.io/badge/Allure-FF45A1?logo=allure&logoColor=white)
-![HTML Report](https://img.shields.io/badge/pytest--html-0A9EDC?logo=google-chrome&logoColor=white)
-
-<!-- CI/CD -->
+![pytest-html](https://img.shields.io/badge/pytest--html-0A9EDC?logo=google-chrome&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B8BBE?logo=devops&logoColor=white)
 
-<!-- Tools -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 

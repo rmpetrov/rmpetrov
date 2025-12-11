@@ -58,4 +58,4 @@ A complete UI & API automation framework with:
 
 ---
 
-If you're interested in my work or want to chat about QA / automation, feel free to reach out on [LinkedIn](YOUR_LINK_HERE).
+If you're interested in my work or want to chat about QA / automation, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rmpetrov/).

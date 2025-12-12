@@ -1,5 +1,5 @@
 # Hi, I'm Roman - SDET / QA Automation Engineer
-
+ 
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)

@@ -1,4 +1,4 @@
-# Hi, I'm Roman — SDET / QA Automation Engineer
+# Hi, I'm Roman - SDET / QA Automation Engineer
 
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -19,8 +19,8 @@
 
 
 
-I'm a QA Automation Engineer specializing in Python, Pytest, and Playwright.  
-I build clean and scalable test automation frameworks, integrate them into CI/CD,  
+I'm a QA Automation Engineer specializing in Python, Pytest and Playwright.  
+I build clean and scalable test automation frameworks, integrate them into CI/CD  
 and focus on improving product quality through reliable automated testing.
 
 - 7+ years in software testing (web applications, data-heavy systems)

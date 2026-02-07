@@ -12,6 +12,7 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 
 **Open to:** SDET / QA Automation roles (Remote, Hybrid, Onsite)  
 **Location:** Boston, MA, USA  
+**Work Authorization:** U.S. Citizen  
 **Contact:** [rpetrovqa@gmail.com](mailto:rpetrovqa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rmpetrov/)
 
 ---
@@ -21,6 +22,11 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 - Built scalable Python automation frameworks for UI + API testing
 - Integrated automation into CI/CD for fast, reliable feedback
 - Strong focus on stable selectors, flake reduction, and fast triage
+
+## Results
+- Improved overall testing efficiency by 21% through framework and process improvements
+- Reduced manual regression time by 23% with 80+ automated UI tests
+- Increased early defect detection by 15% via nightly CI test execution
 
 ## Tech Stack
 **Languages:** Python, SQL, Java, JavaScript  
@@ -43,7 +49,9 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 - Allure + HTML report auto-published via GitHub Pages
 - CI matrix with artifacts for fast debugging
 
-[View repository: playwright-tests](https://github.com/rmpetrov/playwright-tests)
+- [View repository: playwright-tests](https://github.com/rmpetrov/playwright-tests)
+- [CI workflows](https://github.com/rmpetrov/playwright-tests/actions)
+- [Published HTML report](https://rmpetrov.github.io/playwright-tests/)
 
 ---
 

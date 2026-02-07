@@ -1,61 +1,55 @@
-# Hi, I'm Roman - SDET / QA Automation Engineer
- 
+# Roman Petrov — SDET / QA Automation (Python)
+
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF6F00?logo=dependabot&logoColor=white)
-
-![API Testing](https://img.shields.io/badge/API%20Testing-0052CC?logo=fastapi&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-000000?logo=python&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-FF45A1?logo=allure&logoColor=white)
-![pytest-html](https://img.shields.io/badge/pytest--html-0A9EDC?logo=google-chrome&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4B8BBE?logo=devops&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+I build reliable UI/API automation and CI pipelines that reduce regression time and improve release quality.
 
+**Open to:** SDET / QA Automation roles (Remote, Hybrid, Onsite)  
+**Location:** Boston, MA, USA  
+**Contact:** [rpetrovqa@gmail.com](mailto:rpetrovqa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rmpetrov/)
 
-I'm a QA Automation Engineer specializing in Python, Pytest and Playwright.  
-I build clean and scalable test automation frameworks, integrate them into CI/CD  
-and focus on improving product quality through reliable automated testing.
+---
 
-- 7+ years in software testing (web applications, data-heavy systems)
-- Building UI and API test automation in Python
-- Interested in integrating tests into CI/CD and improving release quality
-- Currently working on a demo automation project with Playwright + Pytest
+## Highlights
+- 7+ years in software testing (web apps, data-heavy systems)
+- Built scalable Python automation frameworks for UI + API testing
+- Integrated automation into CI/CD for fast, reliable feedback
+- Strong focus on stable selectors, flake reduction, and fast triage
 
-## Tech stack
+## Impact
+- Increased overall testing efficiency by **21%** through framework improvements
+- Reduced manual regression time by **23%** with 80+ automated UI tests
+- Improved early defect detection by **15%** via nightly CI runs
+- Reduced post-release defects by **18%** through UAT planning with stakeholders
 
-**Languages:** Python, SQL  
-**Frameworks:** Pytest, Playwright, Selenium  
-**Testing:** UI, API, integration, regression  
-**Tools:** Git, GitHub Actions, Docker, Postman  
+## Tech Stack
+**Languages:** Python, SQL, Java, JavaScript  
+**Automation:** Playwright, Pytest, Selenium, TestNG  
+**API Testing:** REST, Postman, Python `requests`  
+**CI/CD & Tools:** GitHub Actions, Jenkins, Git, Docker  
+**Databases:** Oracle, MySQL, PostgreSQL  
 **Reporting:** Allure, pytest-html  
 
-## Key Skills
+## What I Do
+- Design automation strategy and architecture (POM, fixtures, shared utilities)
+- Build UI and API test suites aligned to critical business flows
+- Integrate tests into CI/CD (matrix, artifacts, reporting)
+- Debug and analyze failures across UI, API, and backend logs
 
-- UI automation with Python + Playwright (POM approach)
-- API test automation using Python (`requests`)
-- Framework design with Pytest (fixtures, reusable utilities)
-- CI/CD pipelines with GitHub Actions (matrix, artifacts, reporting)
-- Debugging, analyzing logs, working with backend-heavy systems
-
-## Projects
-
-A complete UI & API automation framework with:
-- Playwright + Pytest
-- Page Object Model
-- API test module (reqres)
-- Allure reporting
-- HTML report auto-published via GitHub Pages
-- CI/CD with cross-browser matrix
-
+## Featured Project
+**playwright-tests** — UI & API automation framework  
+- Cross-browser Playwright + Pytest with POM and fixtures
+- API test module (reqres) with shared data setup
+- Allure + HTML report auto-published via GitHub Pages
+- CI matrix with artifacts for fast debugging  
 ➡️ [playwright-tests](https://github.com/rmpetrov/playwright-tests)
 
 ---
 
-If you're interested in my work or want to chat about QA / automation, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rmpetrov/).
+If you’re hiring or want to discuss QA automation, feel free to reach out.

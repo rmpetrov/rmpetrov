@@ -48,7 +48,6 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 - API test module (reqres) with shared data setup
 - Allure + HTML report auto-published via GitHub Pages
 - CI matrix with artifacts for fast debugging
-
 - [View repository: playwright-tests](https://github.com/rmpetrov/playwright-tests)
 - [CI workflows](https://github.com/rmpetrov/playwright-tests/actions)
 - [Published HTML report](https://rmpetrov.github.io/playwright-tests/)

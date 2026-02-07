@@ -41,8 +41,9 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 - Cross-browser Playwright + Pytest with POM and fixtures
 - API test module (reqres) with shared data setup
 - Allure + HTML report auto-published via GitHub Pages
-- CI matrix with artifacts for fast debugging  
-➡️ [playwright-tests](https://github.com/rmpetrov/playwright-tests)
+- CI matrix with artifacts for fast debugging
+
+[View repository: playwright-tests](https://github.com/rmpetrov/playwright-tests)
 
 ---
 

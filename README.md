@@ -13,7 +13,7 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 **Open to:** SDET / QA Automation roles (Remote, Hybrid, Onsite)  
 **Location:** Boston, MA, USA  
 **Work Authorization:** U.S. Citizen  
-**Contact:** [rpetrovqa@gmail.com](mailto:rpetrovqa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rmpetrov/) · [Resume (Latest)](./RomanPetrovResumeA.docx)
+**Contact:** [rpetrovqa@gmail.com](mailto:rpetrovqa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rmpetrov/) · [Resume (Latest PDF)](./RomanPetrovResumeA.pdf)
 
 ---
 

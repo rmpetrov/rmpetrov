@@ -22,12 +22,6 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 - Integrated automation into CI/CD for fast, reliable feedback
 - Strong focus on stable selectors, flake reduction, and fast triage
 
-## Impact
-- Increased overall testing efficiency by **21%** through framework improvements
-- Reduced manual regression time by **23%** with 80+ automated UI tests
-- Improved early defect detection by **15%** via nightly CI runs
-- Reduced post-release defects by **18%** through UAT planning with stakeholders
-
 ## Tech Stack
 **Languages:** Python, SQL, Java, JavaScript  
 **Automation:** Playwright, Pytest, Selenium, TestNG  

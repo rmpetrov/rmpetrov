@@ -11,10 +11,11 @@
 I build reliable UI/API automation and CI pipelines that reduce regression time and improve release quality.
 
 ## Start here (60 sec)
-- [playwright-tests repo](/rmpetrov/playwright-tests)
-- [sdet-toolbox repo](/rmpetrov/sdet-toolbox)
+- [playwright-tests repo](https://github.com/rmpetrov/playwright-tests)
+- [sdet-toolbox repo](https://github.com/rmpetrov/sdet-toolbox)
 - [Published report portal (GitHub Pages)](https://rmpetrov.github.io/playwright-tests/)
-- [CI workflow files](/rmpetrov/playwright-tests/tree/main/.github/workflows)
+- [CI workflow files (playwright-tests)](https://github.com/rmpetrov/playwright-tests/tree/main/.github/workflows)
+- [CI workflow files (sdet-toolbox)](https://github.com/rmpetrov/sdet-toolbox/tree/main/.github/workflows)
 - [Architecture notes](#architecture-notes)
 - [Flaky-test policy](#flaky-test-policy)
 

@@ -71,11 +71,11 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 - [CI workflows](https://github.com/rmpetrov/playwright-tests/actions)
 - [Published HTML report](https://rmpetrov.github.io/playwright-tests/)
 
-![GitHub Pages report portal overview (placeholder)](docs/images/report-portal-placeholder.svg)
-Caption: TODO placeholder for the GitHub Pages report portal overview.
+![GitHub Pages report portal](docs/images/report-portal.png)
+Caption: GitHub Pages report portal (index page).
 
-![Allure overview (placeholder)](docs/images/allure-overview-placeholder.svg)
-Caption: TODO placeholder for the Allure overview report.
+![Allure report overview](docs/images/allure-overview.png)
+Caption: Allure report overview dashboard.
 
 ---
 

@@ -71,10 +71,10 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 - [CI workflows](https://github.com/rmpetrov/playwright-tests/actions)
 - [Published HTML report](https://rmpetrov.github.io/playwright-tests/)
 
-![GitHub Pages report portal](docs/images/report-portal.png)
+<img src="docs/images/report-portal.png" alt="GitHub Pages report portal" width="700" />
 Caption: GitHub Pages report portal (index page).
 
-![Allure report overview](docs/images/allure-overview.png)
+<img src="docs/images/allure-overview.png" alt="Allure report overview" width="700" />
 Caption: Allure report overview dashboard.
 
 ---

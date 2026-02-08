@@ -10,10 +10,18 @@
 
 I build reliable UI/API automation and CI pipelines that reduce regression time and improve release quality.
 
+## Start here (60 sec)
+- [playwright-tests repo](/rmpetrov/playwright-tests)
+- [sdet-toolbox repo](/rmpetrov/sdet-toolbox)
+- [Published report portal (GitHub Pages)](https://rmpetrov.github.io/playwright-tests/)
+- [CI workflow files](/rmpetrov/playwright-tests/tree/main/.github/workflows)
+- [Architecture notes](#architecture-notes)
+- [Flaky-test policy](#flaky-test-policy)
+
 **Open to:** SDET / QA Automation roles (Remote, Hybrid, Onsite)  
 **Location:** Boston, MA, USA  
 **Work Authorization:** U.S. Citizen  
-**Contact:** [rpetrovqa@gmail.com](mailto:rpetrovqa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rmpetrov/) · [Resume (Latest PDF)](./RomanPetrovResumeA.pdf)
+**Contact:** [rpetrovqa@gmail.com](mailto:rpetrovqa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rmpetrov/) · [Resume (PDF)](./Roman_Petrov_Resume.pdf)
 
 ---
 
@@ -24,9 +32,9 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 - Strong focus on stable selectors, flake reduction, and fast triage
 
 ## Results
-- Improved overall testing efficiency by 21% through framework and process improvements
-- Reduced manual regression time by 23% with 80+ automated UI tests
-- Increased early defect detection by 15% via nightly CI test execution
+- Improved triage speed by publishing traces, screenshots, and logs with each CI run
+- Reduced manual regression effort by moving repeatable checks into CI smoke and nightly suites
+- Increased automation coverage across critical UI and API flows with reusable fixtures and data setup
 
 ## Tech Stack
 **Languages:** Python, SQL, Java, JavaScript  
@@ -41,6 +49,16 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 - Build UI and API test suites aligned to critical business flows
 - Integrate tests into CI/CD (matrix, artifacts, reporting)
 - Debug and analyze failures across UI, API, and backend logs
+
+## Architecture Notes
+- Keep UI interactions in page objects and shared helpers so tests stay readable
+- Use fixtures for setup/teardown and stable test data
+- Make CI artifacts first-class (traces, screenshots, logs) for fast debugging
+
+## Flaky-Test Policy
+- Treat flakiness as a bug and investigate root cause before adding retries
+- Quarantine unstable tests with clear ownership and a tracked issue
+- Prefer deterministic waits and stable selectors over time-based sleeps
 
 ## Featured Project
 **playwright-tests** — UI & API automation framework  

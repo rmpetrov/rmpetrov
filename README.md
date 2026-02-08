@@ -71,6 +71,12 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 - [CI workflows](https://github.com/rmpetrov/playwright-tests/actions)
 - [Published HTML report](https://rmpetrov.github.io/playwright-tests/)
 
+![GitHub Pages report portal overview (placeholder)](docs/images/report-portal-placeholder.svg)
+Caption: TODO placeholder for the GitHub Pages report portal overview.
+
+![Allure overview (placeholder)](docs/images/allure-overview-placeholder.svg)
+Caption: TODO placeholder for the Allure overview report.
+
 ---
 
 If you’re hiring or want to discuss QA automation, feel free to reach out.

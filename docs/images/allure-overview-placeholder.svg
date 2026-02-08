@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="TODO: Allure overview screenshot">
+  <rect width="1200" height="675" fill="#f6f8fa"/>
+  <rect x="40" y="40" width="1120" height="595" fill="#ffffff" stroke="#c9d1d9" stroke-width="2"/>
+  <text x="100" y="180" font-family="Arial, Helvetica, sans-serif" font-size="40" fill="#24292f">TODO: Add Allure overview screenshot</text>
+  <text x="100" y="240" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#57606a">Replace this placeholder with a real capture.</text>
+</svg>

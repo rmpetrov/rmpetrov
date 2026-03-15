@@ -1,4 +1,4 @@
-# Roman Petrov — SDET / QA Automation (Python)
+# Roman Petrov - QA Engineer / SDET
 
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -8,18 +8,16 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-I build reliable UI/API automation and CI pipelines that reduce regression time and improve release quality.
+I work in software quality across manual and automated testing, with a practical focus on UI and API validation, troubleshooting, defect investigation, regression coverage, and release readiness. This GitHub highlights hands-on Python-based testing work, reproducible execution, reporting, and technical documentation that support day-to-day QA.
 
-## Start here (60 sec)
-- [playwright-tests repo](https://github.com/rmpetrov/playwright-tests)
-- [sdet-toolbox repo](https://github.com/rmpetrov/sdet-toolbox)
-- [Published report portal (GitHub Pages)](https://rmpetrov.github.io/playwright-tests/)
-- [CI workflow files (playwright-tests)](https://github.com/rmpetrov/playwright-tests/tree/main/.github/workflows)
-- [CI workflow files (sdet-toolbox)](https://github.com/rmpetrov/sdet-toolbox/tree/main/.github/workflows)
-- [Architecture notes](#architecture-notes)
-- [Flaky-test policy](#flaky-test-policy)
+## Start Here
+- [playwright-tests](https://github.com/rmpetrov/playwright-tests) - UI and API validation with Playwright + pytest
+- [sdet-toolbox](https://github.com/rmpetrov/sdet-toolbox) - Practical QA utilities, helpers, and testing workflows
+- [Published report portal](https://rmpetrov.github.io/playwright-tests/) - Example reports, traces, and execution output
+- [playwright-tests CI workflows](https://github.com/rmpetrov/playwright-tests/tree/main/.github/workflows)
+- [sdet-toolbox CI workflows](https://github.com/rmpetrov/sdet-toolbox/tree/main/.github/workflows)
 
-**Open to:** SDET / QA Automation roles (Remote, Hybrid, Onsite)  
+**Open to:** QA Engineer, QA Analyst, Software Test Engineer, Technical QA, Product QA, SDET, and support-adjacent quality roles  
 **Location:** Boston, MA, USA  
 **Work Authorization:** U.S. Citizen  
 **Contact:** [rpetrovqa@gmail.com](mailto:rpetrovqa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rmpetrov/) · [Resume (PDF)](./Roman_Petrov_Resume.pdf)
@@ -27,49 +25,48 @@ I build reliable UI/API automation and CI pipelines that reduce regression time 
 ---
 
 ## Highlights
-- 7+ years in software testing (web apps, data-heavy systems)
-- Built scalable Python automation frameworks for UI + API testing
-- Integrated automation into CI/CD for fast, reliable feedback
-- Strong focus on stable selectors, flake reduction, and fast triage
+- 7+ years in software testing across web applications and data-heavy systems
+- Experience with both manual and automated testing across UI, API, regression, and release validation
+- Practical Python, Playwright, pytest, Selenium, API, and SQL testing work
+- Strong focus on maintainable coverage, stable execution, and useful debugging evidence
 
 ## Results
-- Improved triage speed by publishing traces, screenshots, and logs with each CI run
-- Reduced manual regression effort by moving repeatable checks into CI smoke and nightly suites
-- Increased automation coverage across critical UI and API flows with reusable fixtures and data setup
+- Made failures easier to investigate by publishing traces, screenshots, logs, and reports with CI runs
+- Reduced repeatable manual regression work by moving stable UI and API checks into smoke and nightly coverage
+- Improved release readiness with reusable fixtures, structured test data, and repeatable execution
 
 ## Tech Stack
 **Languages:** Python, SQL, Java, JavaScript  
-**Automation:** Playwright, Pytest, Selenium, TestNG  
-**API Testing:** REST, Postman, Python `requests`  
-**CI/CD & Tools:** GitHub Actions, Jenkins, Git, Docker  
+**Testing:** Manual testing, regression testing, Playwright, Pytest, Selenium, TestNG  
+**API and Data Validation:** REST, Postman, Python `requests`, SQL checks  
+**Tools:** GitHub Actions, Jenkins, Git, Docker  
 **Databases:** Oracle, MySQL, PostgreSQL  
-**Reporting:** Allure, pytest-html  
+**Reporting and Documentation:** Allure, pytest-html, test notes, workflow documentation
 
 ## What I Do
-- Design automation strategy and architecture (POM, fixtures, shared utilities)
-- Build UI and API test suites aligned to critical business flows
-- Integrate tests into CI/CD (matrix, artifacts, reporting)
-- Debug and analyze failures across UI, API, and backend logs
+- Plan and execute manual and automated testing for critical user and business flows
+- Build and maintain UI and API test coverage with readable, reusable Python-based frameworks
+- Investigate failures, troubleshoot defects, and use logs, traces, and test evidence to speed triage
+- Support regression cycles and release readiness with stable execution, reporting, and clear documentation
+- Organize test assets so they are maintainable, repeatable, and useful to teams beyond a single run
 
-## Architecture Notes
-- Keep UI interactions in page objects and shared helpers so tests stay readable
-- Use fixtures for setup/teardown and stable test data
-- Make CI artifacts first-class (traces, screenshots, logs) for fast debugging
+## What This GitHub Shows
+- Practical QA assets: test suites, helpers, reports, and CI runs that support real validation work
+- UI and API test coverage built for repeatable regression checks, not just one-off automation demos
+- Debugging artifacts and documentation that make failures easier to investigate and hand off
 
-## Flaky-Test Policy
-- Treat flakiness as a bug and investigate root cause before adding retries
-- Quarantine unstable tests with clear ownership and a tracked issue
-- Prefer deterministic waits and stable selectors over time-based sleeps
+## Featured Repositories
+### [playwright-tests](https://github.com/rmpetrov/playwright-tests)
+UI and API testing project focused on maintainable regression coverage, reproducible execution, and faster failure analysis.
 
-## Featured Project
-**playwright-tests** — UI & API automation framework  
-- Cross-browser Playwright + Pytest with POM and fixtures
-- API test module (reqres) with shared data setup
-- Allure + HTML report auto-published via GitHub Pages
-- CI matrix with artifacts for fast debugging
-- [View repository: playwright-tests](https://github.com/rmpetrov/playwright-tests)
-- [CI workflows](https://github.com/rmpetrov/playwright-tests/actions)
-- [Published HTML report](https://rmpetrov.github.io/playwright-tests/)
----
+- Playwright + pytest framework with fixtures and page-object structure
+- UI and API validation examples with reporting and CI artifacts
+- Published HTML reports and traces that support defect investigation and regression review
 
-If you’re hiring or want to discuss QA automation, feel free to reach out.
+### [sdet-toolbox](https://github.com/rmpetrov/sdet-toolbox)
+Collection of practical QA utilities and workflow examples for test execution, troubleshooting, and maintainable automation support.
+
+- Reusable helpers that support test execution, debugging, and everyday QA tasks
+- Tooling-oriented examples that complement manual testing, automation work, and technical QA workflows
+
+If you're hiring for software quality, QA, or SDET work, I'd be glad to connect.
